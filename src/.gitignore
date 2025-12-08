@@ -1,0 +1,4 @@
+.env
+src/data/token.service.js
+src/data/data.js
+node_modules/
